@@ -47,7 +47,7 @@ expo install @react-native-async-storage/async-storage
 
 ## Example
 
-```typescript jsx
+```typescript
 import { AsyncStorage } from '@drpiou/async-storage';
 
 type StorageItemValueMap = {
