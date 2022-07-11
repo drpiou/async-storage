@@ -3,7 +3,6 @@
 ![GitHub](https://img.shields.io/github/license/drpiou/async-storage)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/drpiou/async-storage)
 ![Jest tests](https://img.shields.io/badge/stage-experimental-important)
-![GitHub all releases](https://img.shields.io/github/downloads/drpiou/async-storage/total)
 
 The `@drpiou/async-storage` package wraps the `@react-native-async-storage/async-storage` package.
 
